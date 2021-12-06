@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "520979045137",
+    "firebase_url": "https://etanker-1cd83.firebaseio.com",
+    "project_id": "etanker-1cd83",
+    "storage_bucket": "etanker-1cd83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520979045137:android:7ebf5616b54bac67780ab0",
+        "android_client_info": {
+          "package_name": "com.example.etanker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520979045137-atifktfdfuj171h5e5e83t1h57gphpnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etanker",
+            "certificate_hash": "554a84a3ec5e943131c0b51d050c0aa5a1d84a66"
+          }
+        },
+        {
+          "client_id": "520979045137-s89o2t4ipnn0kpsnaq5jgoifnvuqa708.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etanker",
+            "certificate_hash": "3c5de35e4f4037156ac10f76555816a46b97463d"
+          }
+        },
+        {
+          "client_id": "520979045137-9r57s39u9c7rd05bjgk60rv6khr0skr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7HtpqRldYmxt4fEF_Vm3Eb7cBTPokT70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520979045137-9r57s39u9c7rd05bjgk60rv6khr0skr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520979045137:android:3ec02ce4be69d954780ab0",
+        "android_client_info": {
+          "package_name": "com.example.etanker_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520979045137-fjoqcp3ut99u2h1ge7aspjusmasgva2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etanker_customer",
+            "certificate_hash": "554a84a3ec5e943131c0b51d050c0aa5a1d84a66"
+          }
+        },
+        {
+          "client_id": "520979045137-9r57s39u9c7rd05bjgk60rv6khr0skr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7HtpqRldYmxt4fEF_Vm3Eb7cBTPokT70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520979045137-9r57s39u9c7rd05bjgk60rv6khr0skr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520979045137:android:04703f75432b6dc9780ab0",
+        "android_client_info": {
+          "package_name": "com.example.etanker_supplier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520979045137-rf115aiseev6b8g61hjfdtgqukvffgs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etanker_supplier",
+            "certificate_hash": "554a84a3ec5e943131c0b51d050c0aa5a1d84a66"
+          }
+        },
+        {
+          "client_id": "520979045137-9r57s39u9c7rd05bjgk60rv6khr0skr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7HtpqRldYmxt4fEF_Vm3Eb7cBTPokT70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520979045137-9r57s39u9c7rd05bjgk60rv6khr0skr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
